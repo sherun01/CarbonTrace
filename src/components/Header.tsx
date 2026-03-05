@@ -9,7 +9,7 @@ export default function Header() {
             </svg>
           </div>
           <div>
-            <h1 className="text-xl font-bold">智慧小站</h1>
+            <h1 className="text-xl font-bold">润润个人微博</h1>
             <p className="text-xs text-white/70">碳足迹计算器</p>
           </div>
         </div>
