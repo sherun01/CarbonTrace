@@ -61,9 +61,8 @@ export default function App() {
           >
             备案号：滇ICP备2026003203号-1
           </a>
-        </div>
-
-      
+        </div>  
+      </div>
 
       {/* ===== 底部导航（唯一 fixed 元素） ===== */}
       <nav className="bottom-nav">
