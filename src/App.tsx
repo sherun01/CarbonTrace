@@ -59,33 +59,11 @@ export default function App() {
             rel="noopener noreferrer"
             style={{ color: 'inherit', textDecoration: 'none' }}
           >
-            备案号：湘ICP备2026003711号-1
+            备案号：滇ICP备2026003203号-1
           </a>
         </div>
 
-        {/* 公安备案 */}
-        <div>
-          <a
-            href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=43092102000906"
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: 4,
-              color: 'inherit',
-              textDecoration: 'none'
-            }}
-          >
-            <img
-              src="https://www.beian.gov.cn/img/new/gongan.png"
-              alt="公安备案"
-              style={{ width: 14, height: 14 }}
-            />
-            湘公网安备43092102000906号
-          </a>
-        </div>
-      </div>
+      
 
       {/* ===== 底部导航（唯一 fixed 元素） ===== */}
       <nav className="bottom-nav">
